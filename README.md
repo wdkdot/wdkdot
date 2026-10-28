@@ -1,7 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=venom&color=0:86d95e,100:5dc965&height=300&section=header&text=/Greenbean&fontSize=90&stroke=129234&strokeWidth=1&animation=fadeIn&rotate=2) -->
 
 # 👋 완두콩이에요!
-**WDK · Greenbean**
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wdkdot&theme=github-dark-blue&border_radius=37&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
